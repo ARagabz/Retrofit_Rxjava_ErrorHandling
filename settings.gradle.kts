@@ -1,2 +1,2 @@
 rootProject.name = "RetrofitRxJavaErrorHandling"
-include ':app'
+include(":app")
